@@ -1,4 +1,4 @@
-# gisFYP
+# AirDefence
 My final Year Project for Threat Evaluation and Weapons Assignment system with a simulator based visualization based on geodjango, postgis, leaflet and QGIS
 ## Project Description
 The project is about Threat Evaluation and Weapons Asssignment. The basic modules of the project include:<br/>
